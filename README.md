@@ -1,7 +1,7 @@
 # 1° Atividade Avaliativa Laboratorio de Programação - Sistema de Gerenciamento de Estacionamento Rotativo
 Grupo: 
 Jheferson Hugo Farias da Silva - Matrícula: 
-Alexis - Matrícula: 
+Allexis Ryan Campos Silva - Matrícula: 
 
 1. Análise do Problema
 
